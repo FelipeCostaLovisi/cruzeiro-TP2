@@ -1,0 +1,169 @@
+.line{
+    background:url(img/cruzeiro.gif);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    padding-top: 300px;
+    padding-bottom:310px ;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 900px;
+    font-size: 200px;
+}
+body{
+    font-family: Arial, sans-serif;
+    height: auto;
+    margin: 0;
+    
+}
+.cards{
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top: 100 px; 
+    justify-content: center;
+    text-align: left;
+    margin-top: 100px ;
+    justify-content: center;
+    padding: 10px;
+    border-width:1px;
+    font-size: 20px;
+}
+.card1>h1{
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 3px;
+}
+.transisao1{
+    background-image: url(img/Construção_do_Mineirão.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    padding-top: 300px;
+    padding-bottom:310px ;
+    text-align: center;
+    color: rgb(140, 177, 255);
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 200px;
+    font-size: 100px;
+}
+.transisao2{
+    background-image: url(img/libertadores.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    padding-top: 300px;
+    padding-bottom:310px ;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 200px;
+    font-size: 100px;
+}
+.transisao3{
+    background-image: url(img/copadobrasil.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    padding-top: 300px;
+    padding-bottom:310px ;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 200px;
+    font-size: 100px;
+}
+.transisao4{
+    background-image: url(img/brasileiro.jpeg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    padding-top: 300px;
+    padding-bottom:310px ;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 200px;
+    font-size: 100px;
+}
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+  
+  a:hover {
+    opacity: 0.7;
+  }
+  
+  .logo {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    background-image: url(img/nav.jpg);
+    height: 8vh;
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-list li {
+    letter-spacing: 3px;
+    margin-left: 32px;
+  }
+  
+  .mobile-menu {
+    display: none;
+    cursor: pointer;
+  }
+  
+  .mobile-menu div {
+    width: 32px;
+    height: 2px;
+    background: #fff;
+    margin: 8px;
+    transition: 0.3s;
+  }
+  
+  
+  
+  
+
+ 
+  
+
+
